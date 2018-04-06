@@ -46,6 +46,7 @@ After node.js is installed, install the export server by opening a terminal and 
 OR:
     
     git clone https://github.com/highcharts/node-export-server
+    cd node-export-server
     npm install
     npm link
 
